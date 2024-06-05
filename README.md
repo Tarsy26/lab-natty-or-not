@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src="./assets/capa.png"
+    width="300"
+/>
+</p>
+
 # Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
